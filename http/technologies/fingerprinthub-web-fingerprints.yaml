@@ -5100,6 +5100,11 @@ http:
         name: hikvision-ivms
         words:
           - serviceip
+      
+      - type: word
+        name: hikvision-web-client
+        words:
+          - <title>Web Client</title>
 
       - type: word
         name: hikvision-ivms-8700
